@@ -1,0 +1,11 @@
+name: SwampMC-Core
+version: '1.0-SNAPSHOT'
+main: dev.swampmc.swampmccore.SwampMC_Core
+api-version: '1.20'
+commands:
+  dadjoke:
+    description: Tell a Dadjoke
+  fly:
+    description: Fly
+  vanish:
+    description: Vanish
